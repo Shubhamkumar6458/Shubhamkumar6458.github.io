@@ -92,6 +92,17 @@ My favorite search page is **[`Wikipedia`](https://www.wikipedia.org/ "This is w
 
 <https://www.wikipedia.org/>
 *<abc@dummy.com>*  
+
+>Normal Image
+![Europe Globe Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/220px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png "Europe")
+
 >Image having Links
-[![Europe Globe Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/220px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png "Europe")](https://en.wikipedia.org/wiki/Europe)
+[![Europe Globe Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/220px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png "Europe")](https://en.wikipedia.org/wiki/Europe)  
+
+
+```sh
+cd dillinger
+npm i
+node app
+```
 
