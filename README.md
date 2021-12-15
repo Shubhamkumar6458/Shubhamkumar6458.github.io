@@ -76,8 +76,8 @@ This text is **_really important_**.
  - And here's the third list item.  
 
 At the command propmpt, type `nano C++`. 
-`<html>
-  <head>
-  </head>
- </html>`
+`<html>`
+  `<head>`
+  `</head>`
+ `</html>`
 For writing code ``Use C++ `code` in your Markdown file.``
