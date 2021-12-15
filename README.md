@@ -80,4 +80,10 @@ At the command propmpt, type `nano C++`.
     `<head>`      
     `</head>`      
 `</html>`     
-For writing code ``Use C++ `code` in your Markdown file.``
+For writing code ``Use C++ `code` in your Markdown file.``  
+
+***
+
+---
+
+___
