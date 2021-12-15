@@ -87,3 +87,8 @@ For writing code ``Use C++ `code` in your Markdown file.``
 ---
 
 ___
+
+My favorite search page is **[`Wikipedia`](https://www.wikipedia.org/ "This is wikipedia page")**.
+
+<https://www.wikipedia.org/>
+*<abc@dummy.com>*
