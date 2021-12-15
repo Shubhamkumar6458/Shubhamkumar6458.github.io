@@ -73,4 +73,11 @@ This text is **_really important_**.
 >items staritng with numbers and having .(periods)
 - 1947\.  
     I need to add another paragraph below the 1947 item.  
- - And here's the third list item.
+ - And here's the third list item.  
+
+At the command propmpt, type `nano C++`. 
+`<html>
+  <head>
+  </head>
+ </html>`
+For writing code ``Use C++ `code` in your Markdown file.``
