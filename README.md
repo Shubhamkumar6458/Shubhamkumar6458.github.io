@@ -39,3 +39,20 @@ This text is **_really important_**.
 >  - Revenue was off the chart.  
 >  - Profits were higher than ever.  
 >  *Evertyhing* is going according to **plan**. 
+
+1. First Item  
+2. Second Item  
+3. Third Item  
+
+1. first item
+1. second item
+3. third item
+
+1. first item
+3. third item
+6. six item
+
+1. first item
+2. second item
+  1. first sub item
+  2. second sub item
