@@ -91,4 +91,6 @@ ___
 My favorite search page is **[`Wikipedia`](https://www.wikipedia.org/ "This is wikipedia page")**.
 
 <https://www.wikipedia.org/>
-*<abc@dummy.com>*
+*<abc@dummy.com>*  
+
+![Europe Globe Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/220px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png "Europe")
