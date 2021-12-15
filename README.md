@@ -69,3 +69,8 @@ This text is **_really important_**.
 >Unorederd list using -
 - Hello
 - World
+
+>items staritng with numbers and having .(periods)
+- 1947\.  
+    I need to add another paragraph below the 1947 item.  
+ - And here's the third list item.
